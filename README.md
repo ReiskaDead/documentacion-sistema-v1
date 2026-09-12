@@ -30,4 +30,9 @@ def verificar_stock(cantidad):
 ```
 
 ## 5. Enlaces Útiles
-- [Repositorio Oficial en GitHub](https://github.com)
+- [Ver Arquitectura del Sistema](docs/arquitectura.md)
+- [Ver Manual de Usuario](docs/manual_usuario.md)
+- [Ver Especificación de API](docs/api_endpoints.md)
+
+- [Repositorio Oficial en GitHub](https://github.com/ReiskaDead/documentacion-
+sistema-v1)
