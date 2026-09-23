@@ -30,9 +30,11 @@ def verificar_stock(cantidad):
 ```
 
 ## 5. Enlaces Útiles
+## 5. Enlaces Útiles
+- [Ver Arquitectura del Sistema](docs/arquitectura.md)
+- [Ver Casos de Uso Hospitalarios](docs/arquitectura/casos-de-uso.md)
+- [Ver Diagrama de Secuencia de Login](docs/arquitectura/secuencia-autenticacion.md)
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
 - [Ver Manual de Usuario](docs/manual_usuario.md)
 - [Ver Especificación de API](docs/api_endpoints.md)
-
-- [Repositorio Oficial en GitHub](https://github.com/ReiskaDead/documentacion-
-sistema-v1)
+- [Repositorio Oficial en GitHub](https://github.com/gaps3600/documentacion-sistema-v1)
